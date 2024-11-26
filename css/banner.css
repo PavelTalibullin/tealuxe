@@ -1,0 +1,20 @@
+.page__banner {
+  background-image: url(/img/banner.webp);
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+  margin-bottom: 150px;
+}
+
+.banner__text_wrap {
+  font-family: 'Cormorant', serif;
+  padding: 254px 0 48px 0;
+  max-width: 789px;
+}
+
+.banner__text-p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #ffffff;
+  max-width: 557px;
+}

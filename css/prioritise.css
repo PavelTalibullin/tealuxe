@@ -1,0 +1,37 @@
+.page__prioritise {
+  margin-bottom: 150px;
+}
+
+.prioritise-wrap > h2 {
+  margin-bottom: 60px;
+}
+
+.prioritise_items-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 49px;
+  justify-content: center;
+}
+
+.prioritise_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.prioritise_item-title {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.prioritise_item-p {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.prioritise_item-img {
+  width: 60px;
+  height: 60px;
+}

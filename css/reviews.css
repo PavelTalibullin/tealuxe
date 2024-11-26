@@ -1,0 +1,30 @@
+.page__reviews {
+  margin-bottom: 150px;
+  background-color: #f7f2ea;
+  padding: 60px 0;
+}
+
+.reviews__cards-review {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 26px;
+}
+
+.reviews__card-item {
+  max-width: 280px;
+  min-width: 210px;
+  flex: 1 1 0;
+}
+
+.reviews__card-item_text {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.reviews__card-item_name {
+  font-weight: 600;
+  font-size: 20px;
+}

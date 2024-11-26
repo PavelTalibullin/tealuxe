@@ -1,0 +1,54 @@
+@media (hover: hover) {
+
+  .header__store_user > a > svg:hover {
+    fill: #5c5e25;
+  }
+
+  .search_icon:hover {
+    fill: #5c5e25;
+  }
+
+  .btn-hover:hover {
+    background-color: #5c5e25;
+    color: #fff;
+  }
+
+  .menu__nav_item:hover::after {
+    width: 100%;
+    left: -2px;
+  }
+
+  .blog__article_item_content-a:hover::after {
+    right: -7px;
+  }
+
+  .footer__nav-list_item a:hover::after {
+    width: 100%;
+    left: 0;
+  }
+
+  .footer__info-list_item a:hover::after {
+    width: 100%;
+    left: 0;
+  }
+
+  .footer__col-contact_mail > a:hover {
+    color: #5c5e25;
+  }
+
+  .footer__col-contact_mail > a:hover svg {
+    fill: #5c5e25;
+  }
+
+  .footer__col-contact_tel > a:hover {
+    color: #5c5e25;
+  }
+
+  .footer__col-contact_tel > a:hover svg {
+    fill: #5c5e25;
+  }
+
+  .footer__social-wrap > a:hover svg {
+    fill: #5c5e25;
+  }
+}
